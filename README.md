@@ -13,3 +13,7 @@ PORT=5000
 
 DATABASE='mongodb://127.0.0.1/db_login' <br/>
 <br/>
+
+UserAdmin<br/>
+ID: admin<br/>
+PASS: admin<br/>
